@@ -1,0 +1,60 @@
+
+    body{
+      margin: 0;
+      font-family: verdana, sans-serif;
+    }
+
+
+    .top-name{
+      position: relative;
+      margin-top: 50px;
+      left: 10%;
+      display: inline-block;
+    }
+    .top-resume{
+      margin-top: 50px;
+      position: absolute;
+      display: inline-block;
+      left: 80%;
+    }
+
+    .top-2{
+      position: relative;
+      margin-top: 10%;
+      margin-left: 15%;
+      margin-bottom: 130px;
+    }
+    .top-2-right{
+      position: absolute;
+      margin-left: 65%;
+      margin-top: -22%;
+    }
+
+    .info{
+      margin-top: 5%;
+      margin-left: 15%;
+    }
+    .design{
+      direction: rtl;
+      margin-right: 20%;
+    }
+
+    .programming{
+      margin-top: -5%;
+    }
+
+    .software{
+      direction: rtl;
+      margin-top: -5%;
+      margin-right: 20%;
+      margin-bottom: 5%;
+    }
+
+    .contact{
+      margin-top: 10%;
+      margin-bottom: 10%;
+    }
+
+    .bottom-container{
+      text-align: center;
+    }
